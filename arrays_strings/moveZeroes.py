@@ -35,6 +35,7 @@ class Solution:
             nums[insert_pos] = 0
             insert_pos += 1
         return nums
+    # this time complexity is O(n)
 
 
 
